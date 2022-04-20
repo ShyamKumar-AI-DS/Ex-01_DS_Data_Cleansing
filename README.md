@@ -40,3 +40,6 @@ df.info()
 ![output](scr1.png)
 ![output](scr2.png)
 ![output](scr3.png)
+
+### Result :
+Thus the data cleaning process is done within the given dataset.
